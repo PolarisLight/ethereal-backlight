@@ -1,0 +1,4 @@
+interface:
+  display_name: "透光幻影"
+  short_description: "以低饱和、强侧逆光、透光材质和朦胧景深塑造可更换主体的写实幻想风格"
+  default_prompt: "使用 $ethereal-backlight，根据我指定的主体创作图片，保留强局部高光、低饱和和朦胧景深，采用纯文生图。"
